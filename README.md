@@ -2,4 +2,4 @@
 
 it me
 
-[![thegroundwork](http://deploytogroundwork.com)]
+[Deploy To The Groundwork](http://deploytogroundwork.com)
