@@ -1,5 +1,5 @@
 {
-    "bucket_name": "gw-ref-test",
+    "bucket_name": "gw-ref-test-1",
     "source_path": "./src",
     "index_file": "index.html"
 }
